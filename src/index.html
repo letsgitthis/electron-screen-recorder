@@ -4,9 +4,24 @@
     <meta charset="UTF-8">
     <title>Hello World!</title>
     <link rel="stylesheet" href="index.css">
+    <!-- 'Materialize' Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- set 'defer' so our render loads after our HTML -->
+    <script defer src="render.js"></script>
   </head>
   <body>
-    <h1>💖 Hello World!</h1>
-    <p>Welcome to your Electron application.</p>
+    <h1>Electron Screen Recorder</h1>
+    
+    <video></video>
+
+    <button id="startBtn">Start</button>
+    <button id="stopBtn">Stop</button>
+
+    <hr />
+
+    <button id="videoSelectBtn" class="button is-text">
+      Choose a Video Source
+    </button>
+
   </body>
 </html>
