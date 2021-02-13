@@ -21,7 +21,7 @@
 ### This application will work on Mac, Linux, and Windows.
 
 ## License
-### ISC
+### MIT
 
 ## Contributions
 ### Email me, or message me through LinkedIn.
