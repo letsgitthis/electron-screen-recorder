@@ -15,3 +15,15 @@ body {
   font-size: x-large;
   margin-left: 30%;
 }
+
+#startBtn {
+  background-color: #00c853;
+}
+
+#stopBtn {
+  background-color: #ffeb3b;
+}
+
+#videoSelectBtn {
+  background-color: #b3e5fc;
+}
