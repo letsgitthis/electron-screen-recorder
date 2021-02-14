@@ -18,6 +18,7 @@
     
 ## Installation
 ### Download as zip, extract, and run executable.
+### note: I am working on a standalone executable. Open an issue ticket if application is not working on your device.
     
 ## Usage
 ### It would be nice to be able to record my screen for longer periods of time and not be restricted to 5 minutes like some Chrome extensions give you.
